@@ -1,4 +1,4 @@
 # Form-Login
 TUGAS 4 JAVASCRIPT
-Nama: M. Aldi Kurniawan
+M. Aldi Kurniawan
 Kelompok 1
